@@ -1,0 +1,23 @@
+#main{
+background-color: gold;	
+padding: 0px 30px 50px 30px;
+}
+
+#name{
+	text-align: center; 
+	font-weight: bold; 
+	font-size: 32px;
+	font-style: italic;
+	height: 200px;
+	color: maroon;
+	background-color: goldenrod;
+	outline: thick;	
+	font-family: 'Comic Sans MS'
+}
+.title{
+	background-color: yellow;
+	font-size: 30px;
+	text-align: center;
+	color:maroon;
+	font-family: 'Chalkboard';
+}

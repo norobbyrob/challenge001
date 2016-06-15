@@ -1,0 +1,31 @@
+#main{
+	background-color: white;
+	padding: 10px 0px 0px 0px;
+}
+
+#name{
+	background-color: lightgreen;
+	font-size: 50px;
+	text-align: center;
+	height: 250px;
+	color: white;
+	font-family: 'Chalkboard';
+	margin-bottom: 50px;
+	}
+
+.title{
+	font-size: 30px;
+	text-align: center;	
+	font-family: 'Chalkboard';
+}
+.content_wrapper{
+	margin: auto;
+	background-color: lightgray;
+	height: 125px;
+	width: 350px;
+}
+
+.paragraph{
+text-align: center;
+font-size: 10px;
+}
